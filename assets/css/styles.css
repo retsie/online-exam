@@ -1,0 +1,158 @@
+
+#fname, #mname, #lname, #email, #password, #password1, #username{
+	padding:3px;
+	color:#333333;
+	border:1px solid #96A6C5;
+	margin-top:2px;
+	width:200px;
+	font-size:11px;
+
+}
+#reg{
+	margin-top: 20px;
+	margin-left: 40%;
+}
+#regField{
+    border:3px solid #eeeeee;
+	padding:15px;
+	background:url(img/bg.jpg) repeat-x #cbd4e4;
+	color:#203360;
+	margin:140px auto 10px auto;
+	width:380px;
+}
+#ack{
+	background-color:white;
+	border:1px solid #dd3c10;
+	padding:7px 4px;
+	min-height: 20px;
+	text-align:center;
+	margin-top:10px;
+	
+}
+#reg{
+	width:auto;
+	margin:10px 0 0 120px;
+	padding:3px 4px 3px 4px;
+	color:white;
+	background-color:#589d39;
+	outline:none;
+	border:1px solid #006600;
+	font-weight:bold;
+	border-radius: 5px;
+}
+
+body,h1,h2,h3,p,td,quote,small,form,input,ul,li,ol,label{
+	margin:0px;
+	padding:0px;
+}
+
+body{
+	margin-top:20px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#51555C;
+	height:100%;
+	
+	font-size:11px;
+}
+#td{
+	font-size:11px;
+	display:block;
+	text-align:right;
+	margin
+}
+#logForm{
+	display: inline;
+}
+#userlog{
+	position: absolute;
+	right: 285px;
+	width: 180px;
+	padding:3px 4px 3px 4px;
+	font-size:11px;
+	color:black;
+	background-color:white;
+	border-radius: 5px;
+}
+#passlog{
+	position: absolute;
+	right: 101px;
+	top:20px;
+	width: 180px;
+	padding:3px 4px 3px 4px;
+	font-size:11px;
+	color:black;
+	background-color:white;
+	border-radius: 5px;
+}
+#loginbtn{
+	position: absolute;
+	right: 35px;
+	top:20px;
+	width:auto;
+	padding:3px 4px 3px 4px;
+	color:white;
+	font-weight:bold;
+	background-color:#589d39;
+	border-radius: 5px;
+}
+td{
+	font-size:11px;
+}
+table{
+	width:370px;
+}
+hr { 
+	height:3px; 
+	border:none; 
+	color:rgb(60,90,180); 
+	background-color:rgb(60,90,180); 
+}
+#signin{
+	margin-top: 40px; 
+	text-align: right;
+	margin-right: 50px;
+}
+#examAns{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+		
+}
+#examQuest{
+	margin-top: 60px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	font-size: 2em;
+	text-align: center;
+}
+#nextbtn{
+	margin-top: 70px;
+	width:auto;
+	padding:3px 4px 3px 4px;
+	color:white;
+	font-weight:bold;
+	background-color:#589d39;
+	border-radius: 5px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#logout{
+	margin-right: 97px;
+}
+#questField{
+	border:3px solid #eeeeee;
+	padding:20px;
+	background:url(img/bg.jpg) repeat-x #cbd4e4;
+	color:#203360;
+	margin:40px auto 10px auto;
+	width:380px;
+}
+footer{
+	position: absolute;
+	right: 40%;
+	left: 40%;
+	bottom: 10px;
+}
